@@ -1,0 +1,3 @@
+/Users/seoku/CLionProjects/bj2816/cmake-build-debug/CMakeFiles/bj2816.dir
+/Users/seoku/CLionProjects/bj2816/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/seoku/CLionProjects/bj2816/cmake-build-debug/CMakeFiles/rebuild_cache.dir
